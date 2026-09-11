@@ -1,31 +1,25 @@
-# Hi, I'm Abhishek 👋
+# Abhishek Ramesh Kumar
 
-I'm a Data Science student in the IITM Online BS Degree Program at IIT Madras, working across machine learning, applied data analysis, and full-stack development.
+I build and evaluate LLM systems — retrieval pipelines with real benchmark harnesses, multi-agent orchestration, and speech-model inference services. Everything here ships as a runnable, documented repository, not a notebook dump.
 
-## 🔭 What I'm working on
+Currently finishing a **BS in Data Science and Applications at IIT Madras**, with five years of prior professional experience in B2B growth and enterprise reputation management — which means I've shipped software that non-technical stakeholders actually had to use.
 
-- **[SkyeTravel](https://github.com/AbhishekRK41/SkyeTravel)** — a multi-agent AI travel planner built on Google's Agent Development Kit and Gemini, researching flights/hotels/attractions and assembling a full itinerary automatically.
-- **[Voice Obfuscation API](https://github.com/AbhishekRK41/voice-obfuscation-api-final)** — a FastAPI service that transforms call recordings to resist voice cloning while preserving speech clarity, using a HuBERT/ECAPA-TDNN/vocoder pipeline.
-- **[HydraLoop](https://github.com/AbhishekRK41/HydraLoop-Final)** — a habit-forming water intake tracker, personalized to body weight, built as a React PWA.
-- **[Autolysis](https://github.com/AbhishekRK41/Autolysis-Automated-Data-Analysis-Framework)** — an automated CSV analysis framework that runs outlier detection, clustering, and feature-importance analysis, then uses an LLM to narrate the findings into a full report.
-- **[GitHub London Users](https://github.com/AbhishekRK41/github-london-users)** — a data collection pipeline that scrapes GitHub's API for high-follower London-based developers and their repos.
-- A BDM capstone project analyzing six months of pharmacy transaction data for a retail business.
+## Selected work
 
-## 🛠️ Tech I use
+| Project | What it is | Stack |
+|---|---|---|
+| **[RAG Evaluation System](https://github.com/AbhishekRK41/rag-eval-system)** | Production retrieval-augmented generation pipeline with an evaluation harness and honest, reproducible benchmarks | FastAPI · Docker · GitHub Actions CI |
+| **[Voice Obfuscation API](https://github.com/AbhishekRK41/voice-obfuscation-api-final)** | Inference service that perturbs speaker embeddings to defeat voice cloning while keeping speech intelligible | FastAPI · PyTorch · HuBERT/ECAPA-TDNN · Docker |
+| **[SkyeTravel](https://github.com/AbhishekRK41/SkyeTravel)** | Multi-agent travel planner: a root orchestrator delegating to specialized search and assembly agents, grounded in live search rather than model recall | Google ADK · Gemini · Python |
+| **[Autolysis](https://github.com/AbhishekRK41/Autolysis-Automated-Data-Analysis-Framework)** | Zero-config framework that profiles any CSV — outlier detection, clustering, feature importance — then uses an LLM to narrate the findings into a report | scikit-learn · pandas · LLM API |
 
-**Languages:** `Python` · `TypeScript` · `JavaScript`
+## Tech
 
-**ML / Data:** `pandas` · `scikit-learn` · `PyTorch` · `NumPy`
+**Languages** Python · SQL · TypeScript · Java
+**ML & Data** PyTorch · scikit-learn · pandas · NumPy
+**GenAI** LLM evaluation · RAG · multi-agent systems · Google ADK · Gemini API
+**Engineering** FastAPI · Docker · GitHub Actions · REST APIs · GCP
 
-**Backend:** `FastAPI` · `Flask` · `Express` · `Docker`
+## Contact
 
-**Frontend:** `React` · `Vite` · `Tailwind CSS` · `VueJS`
-
-**Data / Infra:** `SQLite` · `MongoDB` · `Redis` · `Celery`
-
-**AI tooling:** `Google ADK` · `Gemini API`
-
-## 📫 Reach me
-
-- Email: [abhishekrk41@gmail.com](mailto:abhishekrk41@gmail.com)
-- LinkedIn: [linkedin.com/in/abhishek-rk-193283152/](https://www.linkedin.com/in/abhishek-rk-193283152/)
+[Email](mailto:abhishekrk41@gmail.com) · [LinkedIn](https://www.linkedin.com/in/abhishek-r-193283152/)
