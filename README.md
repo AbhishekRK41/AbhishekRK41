@@ -1,8 +1,10 @@
 # Abhishek Ramesh Kumar
 
-I build and evaluate LLM systems — retrieval pipelines with real benchmark harnesses, multi-agent orchestration, and speech-model inference services. Everything here ships as a runnable, documented repository, not a notebook dump.
+I build and evaluate LLM systems — retrieval pipelines with real benchmark harnesses, multi-agent orchestration, and speech-model inference services. Each project below has a README with setup and usage instructions.
 
 Currently finishing a **BS in Data Science and Applications at IIT Madras**, with five years of prior professional experience in B2B growth and enterprise reputation management — which means I've shipped software that non-technical stakeholders actually had to use.
+
+Open to applied AI / ML engineering roles. **[View my resume](https://drive.google.com/file/d/1gtrPHV5EWe9cIIiAVffStBtEa_rczKOa/view?usp=sharing)**
 
 ## Selected work
 
@@ -22,4 +24,4 @@ Currently finishing a **BS in Data Science and Applications at IIT Madras**, wit
 
 ## Contact
 
-[Email](mailto:abhishekrk41@gmail.com) · [LinkedIn](https://www.linkedin.com/in/abhishek-r-193283152/)
+[Resume](https://drive.google.com/file/d/1gtrPHV5EWe9cIIiAVffStBtEa_rczKOa/view?usp=sharing) · [Email](mailto:abhishekrk41@gmail.com) · [LinkedIn](https://www.linkedin.com/in/abhishek-r-193283152/)
